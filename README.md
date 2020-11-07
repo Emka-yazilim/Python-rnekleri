@@ -1,1 +1,2 @@
-# Python-rnekleri
+# Python-örnekleri
+
